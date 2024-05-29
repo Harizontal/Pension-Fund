@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\RetirementCheck\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB5BD696-4A89-4CCA-8E54-96B90AA39B9D}|TestRetirementCheck\\TestRetirementCheck.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\retirementcheck\\testretirementcheck\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB5BD696-4A89-4CCA-8E54-96B90AA39B9D}|TestRetirementCheck\\TestRetirementCheck.csproj|solutionrelative:testretirementcheck\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EAE735C-177E-4C6D-9D53-41066FD96232}|RetirementChecked\\RetirementChecked.csproj|C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\RetirementCheck\\retirementchecked\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EAE735C-177E-4C6D-9D53-41066FD96232}|RetirementChecked\\RetirementChecked.csproj|solutionrelative:retirementchecked\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5BD696-4A89-4CCA-8E54-96B90AA39B9D}|TestRetirementCheck\\TestRetirementCheck.csproj|c:\\users\\\u0430\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\retirementcheck\\testretirementcheck\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5BD696-4A89-4CCA-8E54-96B90AA39B9D}|TestRetirementCheck\\TestRetirementCheck.csproj|solutionrelative:testretirementcheck\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\RetirementCheck\\RetirementChecked\\Class1.cs",
               "RelativeDocumentMoniker": "RetirementChecked\\Class1.cs",
@@ -31,21 +31,18 @@
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T06:58:16.046Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\RetirementCheck\\TestRetirementCheck\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestRetirementCheck\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\\u0410\u043B\u0435\u043A\u0441\u0435\u0439\\source\\repos\\RetirementCheck\\TestRetirementCheck\\UnitTest1.cs",
               "RelativeToolTip": "TestRetirementCheck\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T06:54:07.226Z",
               "EditorCaption": ""
