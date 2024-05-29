@@ -1,0 +1,6 @@
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementChecked\bin\Debug\RetirementChecked.dll
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementChecked\bin\Debug\RetirementChecked.pdb
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementChecked\obj\Debug\RetirementChecked.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementChecked\obj\Debug\RetirementChecked.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementChecked\obj\Debug\RetirementChecked.dll
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementChecked\obj\Debug\RetirementChecked.pdb

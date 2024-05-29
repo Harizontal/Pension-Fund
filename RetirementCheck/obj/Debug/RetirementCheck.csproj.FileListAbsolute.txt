@@ -1,0 +1,7 @@
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementCheck\bin\Debug\RetirementCheck.exe.config
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementCheck\bin\Debug\RetirementCheck.exe
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementCheck\bin\Debug\RetirementCheck.pdb
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementCheck\obj\Debug\RetirementCheck.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementCheck\obj\Debug\RetirementCheck.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementCheck\obj\Debug\RetirementCheck.exe
+C:\Users\Алексей\source\repos\RetirementCheck\RetirementCheck\obj\Debug\RetirementCheck.pdb
